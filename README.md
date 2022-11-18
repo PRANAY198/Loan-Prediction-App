@@ -3,7 +3,5 @@ Predict the approval of loan using machine learning and used flask to connect th
 
 Predict the approval of loan where we used flask to connect
 the model with html form from where we get the
-data filled by user to predict the approval of loan. For
-model training we used various technique to compare
-among them and uses best from it which is logistic regression
-with an accuracy of 85%.
+data filled by user to predict the approval of loan.
+
