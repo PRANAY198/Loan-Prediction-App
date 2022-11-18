@@ -3,6 +3,7 @@ import pickle
 import numpy as np
 import flasgger 
 from flasgger import Swagger
+from collections.abc import Mapping
 
 import warnings 
 import sys
